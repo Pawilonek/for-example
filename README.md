@@ -1,3 +1,10 @@
-# for-example
+To run examples use:
 
-https://www.bitnative.com/2014/11/16/presenting-code-in-visual-studio/
+    go run go run 1-for/main.go
+    go run go run 2-forever/main.go
+    go run go run 3-while/main.go
+    go run go run 4-do-while/main.go
+    go run go run 5-foreach/main.go
+    go run go run 6-chanel/main.go
+    go run go run 7-defer/main.go
+
